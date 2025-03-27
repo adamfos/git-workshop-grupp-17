@@ -4,4 +4,7 @@ def hello():
 def food():
     print("My favorite food is probably Lasagna?")
     
+def drink():
+    print("I enjoy coke")
+    
     
