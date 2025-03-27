@@ -1,12 +1,12 @@
 import yasmin, adam, abdi, hq
 
-food = input("Want to know a persons favorite food? Enter their name: ")
+food = input("Want to know a persons favorite drink? Enter their name: ")
 
 if food == "yasmin":
-    yasmin.food()
+    yasmin.drink()
 elif food == "adam":
-    adam.food()
+    adam.drink()
 elif food == "abdi":
-    abdi.food()
+    abdi.drink()
 elif food == "hq":
-    hq.food()
+    hq.drink()
