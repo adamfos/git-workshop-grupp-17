@@ -1,1 +1,2 @@
-print('Hej från Abdi')
+def hello():
+    print('Hej från Abdi')
