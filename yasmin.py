@@ -3,3 +3,6 @@ def hello():
 
 def food():
     print("I like sushi")
+
+def drink():
+    print("I like redbull")
