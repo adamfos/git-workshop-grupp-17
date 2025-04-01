@@ -276,4 +276,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Funfact
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,python,java
